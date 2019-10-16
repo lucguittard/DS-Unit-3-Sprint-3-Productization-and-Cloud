@@ -2,7 +2,7 @@
 
 #imports 
 from flask import Flask
-from.models import DB
+from .models import DB
 
 # create app factory
 def create_app():

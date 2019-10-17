@@ -39,3 +39,9 @@ When I got started on the assignment, I decided to first delve into the addition
 # Module 3 - progress update
 
 The materials of today dealt mainly with building off of the framework established the previous day, with the prime goal being to have code and files in place to support interaction with the back-end data via the Flask app. What remains to be covered as regards full interactivivity is how to pull/reference data via the app. The daily assignment I feel is appropriate, if I understand it correctly. It is to comprehend the lecture material of which there is lot of code to mull over. Also included in the assignment, is the task of adding features to the app webpage via html; this I found to be a nice change of pace. Also disclosed today were the project topics for this upcomming Build Week - another welcomed distraction. I will be spending the remainder of the day reviewing the code from today and attending TL hours for perhaps better insight into the material. 
+
+
+# Module 4 - progress update 
+
+We finished the underlying code for the app today and I can run it in flask, taking two users and comparing the likelihood that they will tweet a given phrase. Issues were encountered the moment I tried to git push to heroku. I feel these can be resolved later on, so I spent the remainder of the time practicing taking in API links, converting to json, and showing this data in flask, all in a simple .py file. This is a straight-forward process I find. I encounter trouble when adding features to the app.py file that would manipulate the data and return visual representations in flask. For example, I tried to export a plot (created in the code of the .py file
+to flask and it breaks down when I try to access the webpage. More practice is needed on building upon the basics. 

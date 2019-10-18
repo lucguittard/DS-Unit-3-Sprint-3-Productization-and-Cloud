@@ -1,0 +1,14 @@
+{% extends "puppy.html" %} 
+
+{% block content %}
+<h2> Here are some datetimes</h2>
+
+<ul>
+    {% for time in times %}
+    <li>
+        <img src="{{ time }}" alt="who what how where">
+    </li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
